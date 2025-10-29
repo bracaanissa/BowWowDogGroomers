@@ -1,0 +1,10 @@
+<resources>
+    <string name="weight_hint">Weight (lbs)</string>
+    <string name="trim_nails">Trim Nails ($5)</string>
+    <string name="flea_bath">Flea Bath ($10)</string>
+    <string name="massage">Massage ($20)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="order">Order</string>
+    <string name="default_cost">$0.00</string>
+</resources>
